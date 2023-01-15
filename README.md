@@ -17,7 +17,7 @@ network infrastructure for udacity using cloud-formation
             
             # Create the infrastructure
             # Clone the repo
-            git clone https://github.com/mustafaDevop/high-availability-web-app
+            git clone https://github.com/mustafaDevop/udacity-network
 
             # Change directory
             cd high-availability-web
